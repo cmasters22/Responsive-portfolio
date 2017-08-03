@@ -1,0 +1,413 @@
+.tabs{
+	color: #ddd;
+	font-size: 25px;
+	text-align: center;
+}
+.header {
+	height: 100px;
+	width:100%
+	background-color: #fff;
+}
+
+.name {
+	padding: 5px;
+	font-family: Georgia;
+	font-weight: bold;
+	margin-left:102px;
+	margin-top:0px;
+	height:75px;
+	width: 250px;
+	background-color: #4aaaa5;
+	text-align: center;
+	color:#fff;
+	font-size: 22px;
+}
+ul {
+	display:inline-block;
+	float:right;
+	list-style: none;
+	margin-top: -69px;
+	margin-left: -40px;
+	color: #ddd;	
+	margin-bottom: 10px;
+}
+li {	
+	color:#ddd;
+	font-size: 13px;
+	font-family: Arial;
+	float: left;
+	margin: 20px;		
+}
+
+a:link{
+	color: #777;
+	text-decoration: none;
+}
+a:visited{
+	color: #777;
+	text-decoration: none;
+}
+
+.topline{
+	color: #ccc;
+	border-bottom-width: 3px;
+	border-top: 5px;
+	width:100%;
+	border-left: 0px;
+	margin-top: -16px;
+	margin-left:0px;
+	margin-right: 0px;
+}
+.background {
+	background-image:url("concrete.png");
+	/*height: 500px;*/
+	width: 100%;
+	clear:both;
+	margin-top: -10px;
+}
+
+ body{
+	
+}
+.about {
+	margin-left:100px;
+	height: 400px;
+	width: 520px;
+	background-color: #fff;
+	display: inline-block;
+	padding-top: 10px;
+	margin-top: 30px;
+	border-width:1px;
+	border-color: #ddd;
+	border-style: solid;
+
+}
+.pabout{
+	margin-left:100px;
+	height: 400px;
+	width: 520px;
+	background-color: #fff;
+	display: inline-block;
+	padding-top: 10px;
+	margin-top: 30px;
+	border-width:1px;
+	border-color: #ddd;
+	border-style: solid;
+
+}
+.cabout{
+	margin-left:100px;
+	height: 400px;
+	width: 520px;
+	background-color: #fff;
+	display: inline-block;
+	padding-top: 10px;
+	margin-top: 30px;
+	border-width:1px;
+	border-color: #ddd;
+	border-style: solid;
+
+}
+.aboutMe {
+	padding-left: 25px;
+	font-family: 'Georgia';
+	font-weight: bold;
+	color: #4aaaa5;
+	font-size: 27px;
+}
+.line{
+	margin-top: -20px;
+	border-top: 0px;
+	border-left: 0px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+.container{
+	padding-top:15px;
+}
+.img{
+	position: static;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.bio {
+	color: #777;
+	font-family: 'Georgia';
+	padding-right:20px;
+	padding-left: 20px;
+
+		}
+.aside {
+	display: inline-block;
+	height: 170px;
+	width: 270px;
+	background-color: white;
+	float: right;
+	margin-right: 258px;
+	margin-top:30px;
+	border-width:1px;
+	border-color: #ddd;
+	border-style: solid;
+}
+.connect{
+	font-family: "Georgia";
+	font-weight: bold;
+	font-size: 22px;
+	padding-left: 31px;
+	color: #4aaaa5;
+	padding-top: 5px;
+
+}
+.connectline{
+	border-top: 0px;
+	border-left: 0px;
+	margin-left: 26px;
+	margin-right: 42px;
+}
+.links{
+	margin-top:2px;
+
+}
+.link1{
+	margin-left: 14px;
+	padding-left:0px;
+	position: static;
+}
+
+.overflow{
+	margin-left: 12px;
+}
+.bottomline {
+	margin-left: 0px;
+	margin-top: -5px;
+	border-style: solid;
+	border-top-width: 10px;
+	color: #4aaaa5;
+	width: 100%;
+}
+.copyright {
+	text-align: center;
+	color: white;
+	padding-top: 35px;
+	font-family: 'Georgia';
+}
+.footer {
+	margin-top: -20px;
+	background-color: #666666;
+	height: 100px;
+	width: 100%;
+		
+}
+#globe {
+	padding-left: 50px;
+	width:150px;
+	height:100px;
+}
+#road{
+	width:150px;
+	height:100px;
+}
+#water{
+	width:150px;
+	height:100px;
+}
+#boat{
+	width:150px;
+	height:100px;
+}
+#site{
+	width:150px;
+	height:100px;
+}
+#car {
+	padding-left: 20px;
+	width:150px;
+	height:100px;
+}
+
+input[type=text] {
+    width: 80%;
+    padding: 6px 25px;
+    margin: 8px;
+    padding-right: 19px;
+    box-sizing: border-box;
+    border: 2px solid #ddd;
+    border-radius: 3px;
+    font-family: Arial;
+
+}
+#fname{
+	margin-left: 25px;
+}
+#email{
+	margin-left: 25px;
+}
+
+label{
+	font-family: 'Arial';
+	color:#777;
+	font-size: 15px;
+	margin-left: 30px;
+}	
+textarea{
+	width: 400px;
+	height: 100px;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border: 2px solid #ddd;
+	border-radius: 4px;
+	resize: none;
+	margin-left: 25px;
+	margin-top: -8px;
+}
+#msg
+{
+	margin-left: 25px;
+	margin-top: -1px;
+	font-family: 'Arial';
+	color: #777;	
+}
+#submit {
+	margin-top:12px;
+	margin-left: 25px;
+	width: 104px;
+	height:29px;
+	color:#fff;
+	text-align: center;
+	background-color: #4aaaa5;
+	padding-top:10px;
+	font-family: 'Arial';
+}
+
+@media screen and (max-width:768px){
+	
+.name{
+	width:100%;
+	text-align: left;
+	padding-left:55px;
+	margin-left:-5px;
+}
+.background {	
+    width: 100%;
+
+}
+.about {
+	height: 450px;
+	display: none;
+	margin-left:150px;
+	width:400px;
+	padding-right: -55px;
+	display: inline-block;
+}
+.pabout{
+	height: 1294px;
+	display: none;
+	margin-left:150px;
+	width:400px;
+	padding-bottom:115px;
+	margin-bottom: 30px;
+	padding-right: -55px;
+	display: inline-block;
+}
+.cabout{
+	height: 294px;
+	display: none;
+	margin-left:150px;
+	width:400px;
+	padding-bottom:115px;
+	margin-bottom: 70px;
+	padding-right: -55px;
+	display: inline-block;
+}
+.aside{
+	margin-right:192px;
+	float:none;
+	margin-left:205px;
+	margin-top:-40px;
+	margin-bottom: 40px;
+		}
+.connect{
+    float:none;
+
+}
+ul{
+	float:right;
+	padding-right:-8;
+}
+li{
+	
+	padding-right: -8px;
+}
+
+#road{
+	height: 200px;
+	width:275px;
+	margin-left: 65px;
+	padding-bottom: 15px;
+}
+#globe{
+	height: 200px;
+	width:275px;
+	margin-left: 15px;
+	padding-bottom: 15px;
+}
+#site{
+	height: 200px;
+	width:275px;
+	margin-left: 65px;
+	padding-bottom: 15px;
+}
+#car{
+	height: 200px;
+	width:275px;
+	margin-left: 45px;
+	padding-bottom: 15px;
+}
+#boat{
+	height: 200px;
+	width:275px;
+	margin-left: 65px;
+	padding-bottom: 15px;
+
+}
+#water{
+	height: 200px;
+	width:275px;
+	margin-left: 65px;
+	padding-bottom: 15px;
+}
+textarea{
+	width: 320px;
+}
+}
+@media screen and (max-width:640px){
+	.header {
+		position:static;
+	}
+#words{
+		margin-left:0px;
+		margin-right: -5px;
+		padding-right: 5px;
+}
+#horzLine{
+		margin-right: -20px;
+}
+
+.about{
+	margin-left:75px;
+	
+}
+.aside{
+    margin-left:135px;
+    margin-top: 15px;
+}
+textarea{
+	width: 320px;
+}
+.cabout{
+	margin-left:105px;
+}
+.pabout{
+	margin-left:75px;
+
+}
